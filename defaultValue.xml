@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes" ?>
+<defaultValue 
+default_char = "X" 
+default_digit = "9" 
+default_date = "11/11/1111 00:00:00"
+default_email = "abc@xyz.com"
+default_ip = "99.99.9.999"
+default_url = "http://www.xyz.com"
+default_phone = "999999999"
+default_ssn = "999-99-9999"
+default_sin = "999-999-999"
+default_cc = "9999 9999 9999 9999"
+default_seed = "500"
+/>
