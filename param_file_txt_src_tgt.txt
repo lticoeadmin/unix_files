@@ -1,0 +1,5 @@
+[Global]
+$$src_file_path=\\172.17.118.55\c$\Informatica\10.2.0
+$$src_file_name=infa_file.txt
+$$tgt_file_path=\\172.17.118.55\c$\Informatica\10.2.0
+$$tgt_file_name=tgt_infa_file.txt
